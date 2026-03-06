@@ -56,7 +56,7 @@
 -  colors vector inside the mesh turned into Vec<Option<Vec\<Color4d>>>
 
 ### 1.0.2
--  Expose `prebuilt` and other new Cargo features from [russimp-sys](https://github.com/jkvargas/russimp-sys)
+-  Expose `prebuilt` and other new Cargo 
 
 ### 1.0.1
 -  PostProcessing typo, GenenerateUVCoords was changed to GenerateUVCoords.
